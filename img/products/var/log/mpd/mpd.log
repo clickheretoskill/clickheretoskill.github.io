@@ -1,0 +1,5 @@
+Jun 30 14:56 : exception: Failed to open '/var/lib/mpd/state': No such file or directory
+Jun 30 14:56 : avahi: Service 'Music Player @ linux' successfully established.
+Jul 01 08:02 : zeroconf: No global port, disabling zeroconf
+Jul 02 09:45 : zeroconf: No global port, disabling zeroconf
+Jul 03 10:21 : zeroconf: No global port, disabling zeroconf
